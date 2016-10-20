@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="affiche.svg"
-   inkscape:export-filename="/home/ed8/projects/akema.fr/src/assets/affiche.A5.png"
+   inkscape:export-filename="/home/ed8/projects/affiche-akema/affiche.A5.pdf"
    inkscape:export-xdpi="45"
    inkscape:export-ydpi="45">
   <title
@@ -31,8 +31,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.58325926"
-     inkscape:cx="507.32871"
-     inkscape:cy="551.60628"
+     inkscape:cx="91.561629"
+     inkscape:cy="263.5697"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -206,7 +206,7 @@
          sodipodi:role="line"
          id="tspan3456"
          x="42.431793"
-         y="768.67535"></tspan></text>
+         y="768.67535" /></text>
     <path
        style="opacity:1;fill:#004564;fill-opacity:1;stroke:none;stroke-width:150;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.40789472"
        d="m 847.71503,940.6955 66.66664,0 0,66.6666 -66.66664,0 z"
