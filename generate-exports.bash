@@ -13,6 +13,12 @@ function exportPdf() {
   inkscape "${commonArgs[@]}" --file=affiche.A5.svg --export-pdf=.affiche.A5.pdf
 }
 
+function exportEps() {
+  mkdir -p eps/
+  inkscape "${commonArgs[@]}" --file=affiche.svg --export-eps=eps/affiche.eps
+  inkscape "${commonArgs[@]}" --file=affiche.A5.svg --export-eps=eps/affiche.A5.eps
+}
+
 resizePageTo() {
   local paper_size="$1"
   local input="$2"
@@ -31,4 +37,5 @@ resizePageTo() {
 exportPdf
 resizePageTo a5 .affiche.A5.pdf affiche.a5.pdf
 rm .affiche.A5.pdf
+exportEps
 exportPng
