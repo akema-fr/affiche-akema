@@ -1,6 +1,6 @@
 # Logo Akema
 
-> ![Affiche Akema](./affiche.A5.png)
+> ![Affiche Akema](./png/affiche.A4.png)
 
 ### Modification
 
